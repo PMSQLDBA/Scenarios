@@ -209,9 +209,6 @@ Sources:
   [AWS Database Blog - Migrate logins, database roles, users, and object-level permissions to Amazon RDS for SQL Server using T-SQL]
   (https://aws.amazon.com/blogs/database/migrate-logins-database-roles-users-and-object-level-permissions-to-amazon-rds-for-sql-server-using-t-sql)
 
-* AWS re:Post — *How do I move SQL Server logins and users to Amazon RDS for SQL Server?*
-  [AWS re:Post - Move SQL Server logins and users to Amazon RDS for SQL Server](https://repost.aws/knowledge-center/rds-sql-server-move-sql-usersc)
-
 ---
 
 ## Final Recommendation for Your Migration
