@@ -1,4 +1,3 @@
-1. Scenario: 
 ## Migrating SQL Server Logins and Passwords to Amazon RDS for SQL Server Without `sysadmin`
 
 ### Short Answer
