@@ -620,5 +620,3 @@ Using **Distributed Availability Groups (DAGs)** provides a robust and proven ap
 By pre-seeding databases, continuously synchronizing transaction logs, and executing a controlled synchronous failover during the maintenance window, organizations can migrate large-scale, multi-terabyte environments while meeting stringent business continuity objectives. 
 When combined with comprehensive planning, automation, and validation, this methodology minimizes operational risk and delivers a seamless transition to Azure.
 
-Reference: 
-
