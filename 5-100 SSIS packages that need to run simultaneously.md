@@ -198,7 +198,7 @@ Capacity planning should be based on performance testing and infrastructure sizi
 
 ---
 
-# Interview-Ready Answer
+# Short Summary: 
 
 > **SSIS Scale Out does not require 100 worker threads for 100 concurrent packages. Microsoft Scale Out uses a Master-Worker architecture where the Scale Out Master schedules package executions across one or more Scale Out Workers. Each Worker can execute multiple packages concurrently, and each package internally creates its own execution threads based on `MaxConcurrentExecutables` (default = logical processors + 2).
 > Therefore, the number of concurrent packages is determined by the available workers and the hardware capacity—not by configuring one worker thread per package.** ([Microsoft Learn][1])
