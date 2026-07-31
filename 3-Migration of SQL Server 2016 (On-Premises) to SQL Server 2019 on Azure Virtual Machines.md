@@ -21,7 +21,9 @@ Alternative Image:
 
 <img width="913" height="500" alt="image" src="https://github.com/user-attachments/assets/26863664-7a24-4645-bceb-978f9be52046" />
 
-Image Reference: https://www.linkedin.com/posts/bibhuti-bhusan-singh-1b96251ab_azuremigration-sqlserver-dataengineering-activity-7488089007080407040-N5Wv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKCDlIBwCyHwl-zdzyASa1BIP491KNZCLE
+Image Reference: 
+
+https://www.linkedin.com/posts/bibhuti-bhusan-singh-1b96251ab_azuremigration-sqlserver-dataengineering-activity-7488089007080407040-N5Wv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKCDlIBwCyHwl-zdzyASa1BIP491KNZCLE
 
 
 ---
