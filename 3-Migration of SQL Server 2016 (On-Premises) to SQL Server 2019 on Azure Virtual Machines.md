@@ -3,11 +3,17 @@
 # Near-Zero Downtime Migration of SQL Server 2016 (On-Premises) to SQL Server 2019 on Azure Virtual Machines using Distributed Availability Groups
 
 **Document Version:** 1.0
+
 **Technology:** Microsoft SQL Server 2016, SQL Server 2019, Windows Server, Azure Virtual Machines, Always On Availability Groups, Distributed Availability Groups (DAG), ExpressRoute
+
 **Migration Type:** Cross-Version Migration (SQL Server 2016 → SQL Server 2019)
+
 **Downtime Objective:** Less than 2 Minutes
+
 **Recovery Point Objective (RPO):** Zero Data Loss
+
 **Recovery Time Objective (RTO):** < 2 Minutes
+
 
 <img width="1232" height="732" alt="image" src="https://github.com/user-attachments/assets/ef3a6a78-0308-44dc-a66b-ff9df12f685d" />
 
