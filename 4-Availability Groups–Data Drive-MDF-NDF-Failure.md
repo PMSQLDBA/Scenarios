@@ -1,7 +1,7 @@
 # Technical SOP: SQL Server Always On Availability Groups – Data Drive (MDF/NDF) Failure, Automatic Failover & Root Cause Analysis (RCA)
 
-**Document Version:** 1.0
 **Applies To:** SQL Server 2016, 2017, 2019, 2022, 2025 (Windows Server Failover Cluster)
+
 **Reference:** Microsoft Learn (Always On Availability Groups)
 
 ---
